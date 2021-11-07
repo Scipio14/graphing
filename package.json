@@ -1,0 +1,17 @@
+{
+  "name": "graphing",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@Scipio14 - Federico Macias",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.4.0",
+    "graphql": "^15.7.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.14"
+  }
+}
